@@ -12,7 +12,7 @@ Github ID is submitted. It is pramni
 
 If you have a Windows 10 system, make sure that the native SSH client and [PowerShell Core 6](https://github.com/PowerShell/PowerShell/releases/tag/v6.2.3 "PowerShell Core 6 Download") are installed.  Add screenshot of the output of: ```ssh -V``` and open the PowerShell 6 (darkblue screen) and the version is shown in the top line.   For Mac, you have Bash and SSH already installed, place a screenshot of the output of ```ssh -V``` and ```bash --version```
 
-![ssh and Powershell](images/ssh Version and  core 6.png)
+![ssh and Powershell](images/sshVersion-Powercore6.png)
 
 This link provides information on installing Bash 5.0 on MacOS and activating it to replace Bash 3.x
 [https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/ "Replace bash 3 with 5 MacOS")
@@ -20,7 +20,7 @@ This link provides information on installing Bash 5.0 on MacOS and activating it
 ## Package Managers for Windows and MacOS
 
 Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https://brew.sh/ "brew installer page").  [Chocolatey.org](https://chocolatey.org/ "Chocolatey.org download page") is the Windows 3rd party package manager.  Place screenshot of the version command output for: ```choco --version``` or ```brew --version```
-![choco version](images/choco version.png)
+![choco version](images/choco-version.png)
 
 ## Install Git
 
@@ -34,7 +34,7 @@ You will need to configure Git if you already haven't done so.  From a shell run
 git config --global user.name "<Your Name>"
 git config --global user.email "<youremail@example.com>"
 ```
-![git Version](images/git version.png)
+![git Version](images/git-version.png)
 ## Install VirtualBox
 
 If you do not already have VirtualBox 6.x installed, use the package manager to install VirtualBox.  Take a screenshot of the VirtualBox > Help > About VirtualBox output.  If you have 6.0.x at the moment, no need to upgrade.
@@ -78,7 +78,7 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 
 * [VSCode from Microsoft](https://code.visualstudio.com/ "VSCode install")
   * Cross platform and has direct shell integration
-  * ![visualstudio help about](images/visualstudio help about.png)
+  * ![visualstudio help about](images/visualstudio-help.png)
 * [atom.io](https://atom.io/ "Atom.io install")
   * Built by GitHub for Git integration
 * [Sublime Text](http://www.sublimetext.com/ "Submlime Text installer site")
@@ -101,7 +101,7 @@ This Readme.md will contain these elements written in Markdown. This is a good [
 The document will include:
 
 * h1 Pv Ramni
-  * ![Family](images/Pv Ramni Family.jpg)
+  * ![Family](images/PvRamni-Family.jpg)
 * h2 Where are you from
   * From the Chicago suburbs of Naperville
 * h2 IT Interests
@@ -109,7 +109,7 @@ The document will include:
 * h2 Something Interesting About You
   * Play TableTennis, Jogging and Swimming
 * h2 Git-It Badge
-   * ![Git Tutorial](images/Git-IT badge.png)
+   * ![Git Tutorial](images/Git-It-badge.png)
 
 Push this to your GitHub private account repo.
 
