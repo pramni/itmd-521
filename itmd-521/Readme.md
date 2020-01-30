@@ -80,6 +80,8 @@ I have a series of samples that I use from Packer to build images.  Clone this s
 
 Take a screenshot of the output of the ```build``` directory showing the ```*.box``` file.  In the ```build``` directory, create a directory named **ubuntu-vanilla**.  ~```cd``` into that directory and issue the ```vagrant init``` command:~
 
+![Packer Build output](images/packer-virtualbox.png)
+
 ## Install IDE editor
 
 After installing an IDE editor of your choice, pick one of the listed or you can use another one, but it needs to have native Git support built into the editor.  Take a screenshot of output of the help > about button in the application.  You can install all or any of these via the package managers Chocolatey and Brew.
